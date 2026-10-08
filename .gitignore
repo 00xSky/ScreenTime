@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+# Personal: usage data and preferences are not shared
+data/
+settings.json
+
+# Personal: your own app names (see README)
+appnames_local.json
+
+# Internal notes
+Docs/
+
+# PyInstaller output
+build/
+dist/
